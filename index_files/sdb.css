@@ -1,0 +1,103 @@
+TD {
+	FONT: 9pt "宋体"; COLOR: #000000
+}
+BODY {
+	FONT-SIZE: 12px;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	FONT-FAMILY: "MS Shell Dlg", "Tahoma", "宋体";
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+}
+.td {
+	FONT-SIZE: 9pt; COLOR: #0071BC; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"
+}
+A.td:link {
+	COLOR: #0071BC; TEXT-DECORATION: none
+}
+A.td:visited {
+	COLOR: #0071BC; TEXT-DECORATION: none
+}
+A.td:active {
+	COLOR: #FF6600; TEXT-DECORATION: none
+}
+A.td:hover {
+	COLOR: #FF6600; TEXT-DECORATION: none
+}
+.td1 {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"
+}
+A.td1:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.td1:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.td1:active {
+	COLOR: #FF6600; TEXT-DECORATION: none
+}
+A.td1:hover {
+	COLOR: #FF6600; TEXT-DECORATION: underline
+}
+.td2 {
+	FONT-SIZE: 9pt; COLOR: #FDFF3B; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"
+}
+A.td2:link {
+	COLOR: #FDFF3B; TEXT-DECORATION: underline
+}
+A.td2:visited {
+	COLOR: #0FDFF3B; TEXT-DECORATION: underline}
+A.td2:active {
+	COLOR: #FF6600; TEXT-DECORATION: underline}
+A.td2:hover {
+	COLOR: #FF6600}
+.td3 {
+	FONT-SIZE: 11pt;
+	COLOR: #0071BC;
+	LINE-HEIGHT: 150%;
+	FONT-FAMILY: "宋体";
+	font-weight: bold;
+}
+A.td3:link {
+	COLOR: #0071BC;
+	TEXT-DECORATION: underline;
+	font-weight: bold;
+}
+A.td3:visited {
+	COLOR: #0071BC;
+	TEXT-DECORATION: underline;
+	font-weight: bold;
+}
+A.td3:active {
+	COLOR: #FF6600;
+	TEXT-DECORATION: underline;
+	font-weight: bold;
+}
+A.td3:hover {
+	COLOR: #FF6600; TEXT-DECORATION: none
+}
+.input {
+	border: 1px solid #7F9DB9;
+	height: 16px;
+}
+
+.btn_1 {
+	background-image: url(index1_zi4_14.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	font-family: "宋体";
+	font-size: 12px;
+	color: #000000;
+	background-attachment: fixed;
+	text-align: center;
+	border: 0px none;
+	height: 20px;
+	width: 46px;
+}
+.bg1 {
+	background-attachment: fixed;
+	background-image: url(earth.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
